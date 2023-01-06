@@ -9,7 +9,7 @@
     "generate": "nuxt-ts generate"
   },
   "dependencies": {
-    "@nuxt/content": "^1.5.0",
+    "@nuxt/content": "^1.15.1",
     "@nuxt/typescript-runtime": "latest",
     "@nuxtjs/axios": "^5.12.0",
     "@nuxtjs/pwa": "^3.0.0-beta.20",
